@@ -1,6 +1,6 @@
- $('#email').val('1')
+ $('#hide').val('1')
 
-         if ($('#email').val()=='1') {
-            alert('now this value is One')
+         if ($('#hide').val()=='1') {
+            alert('now this value ishidden')
          }
 
