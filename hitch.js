@@ -1,4 +1,4 @@
- $('#hide').val('1');
+ $('#hide').val('2');
 
  $.ajaxSetup({
         headers: {
